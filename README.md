@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -18,9 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0014-longest-common-prefix) |
 | [0137-single-number-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0137-single-number-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0137-single-number-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

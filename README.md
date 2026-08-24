@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->

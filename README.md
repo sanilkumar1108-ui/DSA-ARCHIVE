@@ -75,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

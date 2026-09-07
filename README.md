@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0039-combination-sum) |
 | [0137-single-number-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0137-single-number-ii) |
 ## Bit Manipulation
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm

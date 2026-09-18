@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0050-powx-n) |
+| [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
 | [1922-count-good-numbers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2235-add-two-integers) |
 ## Recursion
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

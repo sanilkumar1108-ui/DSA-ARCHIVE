@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0039-combination-sum) |
 | [0137-single-number-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0169-majority-element) |
+| [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -155,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1922-count-good-numbers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2235-add-two-integers) |
 ## Recursion
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1004-max-consecutive-ones-iii) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

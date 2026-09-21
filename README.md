@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0169-majority-element) |
 | [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1004-max-consecutive-ones-iii) |
+| [1920-build-array-from-permutation](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1920-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
+| [1920-build-array-from-permutation](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |

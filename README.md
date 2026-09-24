@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1920-build-array-from-permutation) |
 | [3524-find-x-value-of-array-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2235-add-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |

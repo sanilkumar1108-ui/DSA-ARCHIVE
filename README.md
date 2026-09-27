@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0242-valid-anagram) |
+| [1051-height-checker](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1096-brace-expansion-ii) |
 ## Array
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1051-height-checker) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -299,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0877-stone-game) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

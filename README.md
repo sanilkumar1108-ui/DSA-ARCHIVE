@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1051-height-checker) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1480-running-sum-of-1d-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1096-brace-expansion-ii) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -340,4 +344,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->

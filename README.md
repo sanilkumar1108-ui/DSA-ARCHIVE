@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1021-remove-outermost-parentheses) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0877-stone-game) |
 | [3524-find-x-value-of-array-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
@@ -391,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

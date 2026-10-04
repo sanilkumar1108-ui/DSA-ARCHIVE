@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0189-rotate-array) |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

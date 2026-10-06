@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0268-missing-number) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |

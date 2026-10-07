@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0496-next-greater-element-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0208-implement-trie-prefix-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -423,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0222-count-complete-tree-nodes) |
@@ -471,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2778-sum-of-squares-of-special-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

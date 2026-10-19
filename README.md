@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1096-brace-expansion-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Array
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1920-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |

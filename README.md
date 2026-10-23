@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0796-rotate-string) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -495,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

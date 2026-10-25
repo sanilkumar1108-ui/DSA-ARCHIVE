@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |

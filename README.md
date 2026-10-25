@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1672-richest-customer-wealth) |
 ## Binary Lifting
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0547-number-of-provinces) |
 ## Design
 |  |

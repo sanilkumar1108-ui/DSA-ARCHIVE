@@ -24,12 +24,12 @@ class Solution {
             }
         }
 
+//actual question
         boolean vis[] = new boolean[n];
         int provinces = 0;
-
         for(int i = 0; i < n; i++){
             if(!vis[i]){
-                dfs(graph, i , vis);
+                bfs(graph,i, vis);
                 provinces++;
             }
         }
@@ -37,14 +37,20 @@ class Solution {
 
     }
 
-    public static void dfs(ArrayList<Edge> graph[], int curr, boolean vis[]){
-        vis[curr] = true;
-
-        for(int i = 0; i < graph[curr].size(); i++){
-            Edge e = graph[curr].get(i);
-            if(!vis[e.dest]){
-                dfs(graph, e.dest, vis);
+    public static void bfs(ArrayList<Edge> graph[], int city, boolean vis[]){
+        Queue<Integer> q = new LinkedList<>();
+        q.add(city);
+        vis[city] = true;
+        while(!q.isEmpty()){
+            int curr = q.remove();
+            for(int i = 0; i < graph[curr].size(); i++){
+                Edge e = graph[curr].get(i);
+                if(!vis[e.dest]){
+                    vis[e.dest] = true;
+                    q.add(e.dest);
+                }
             }
+
         }
     }
 }

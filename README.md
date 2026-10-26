@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -525,4 +527,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0547-number-of-provinces) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->

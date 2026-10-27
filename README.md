@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3110-score-of-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |

@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1096-brace-expansion-ii) |
 ## DP on Trees
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3898-find-the-degree-of-each-vertex) |

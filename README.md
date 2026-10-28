@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1922-count-good-numbers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2235-add-two-integers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion

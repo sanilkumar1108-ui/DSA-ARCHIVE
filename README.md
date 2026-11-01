@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1480-running-sum-of-1d-array) |
+| [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1096-brace-expansion-ii) |
+| [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 ## DP on Trees
 |  |
 | ------- |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Lifting
@@ -509,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0215-kth-largest-element-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
@@ -532,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 ## Design
 |  |
 | ------- |
@@ -575,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->

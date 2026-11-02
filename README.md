@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
@@ -585,5 +589,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

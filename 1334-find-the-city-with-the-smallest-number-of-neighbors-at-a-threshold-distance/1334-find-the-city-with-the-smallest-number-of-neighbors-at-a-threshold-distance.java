@@ -1,80 +1,48 @@
 class Solution {
-    static class Edge{
-        int dest;
-        int wt;
-        public Edge(int d, int w){
-            this.dest = d;
-            this.wt = w;
-        }
-    }
-    static class info implements Comparable<info>{
-        int a;
-        int cost;
-        public info(int a, int c){
-            this.a = a;
-            this.cost = c;
-        }
-
-        @Override
-        public int compareTo(info i2){
-            return this.cost - i2.cost;
-        }
-    }
     public int findTheCity(int n, int[][] edges, int distanceThreshold) {
-        ArrayList<Edge> graph[] = new ArrayList[n];
+        int dist[][] = new int[n][n];
         for(int i = 0; i < n; i++){
-            graph[i] = new ArrayList<>();
+            Arrays.fill(dist[i], Integer.MAX_VALUE);
+            dist[i][i] = 0;
         }
 
-        for(int i = 0; i < edges.length; i++){
-            int u = edges[i][0];
-            int v = edges[i][1];
-            int w = edges[i][2];
+        //for edges
+        for(int edge[] : edges){
+            int u = edge[0];
+            int v = edge[1];
+            int w = edge[2];
 
-            graph[u].add(new Edge(v,w));
-            graph[v].add(new Edge(u,w));
+            dist[u][v] = w;
+            dist[v][u] = w;
         }
 
-        int minCount = Integer.MAX_VALUE;
-        int count = 0;
-        int answer = 0;
-
-        for(int src = 0; src < n; src++){
-            int dist[] = new int[n];
-            Arrays.fill(dist, Integer.MAX_VALUE);
-
-            PriorityQueue<info> pq = new PriorityQueue<>();
-
-            dist[src] = 0;
-            pq.add(new info(src, 0));
-            while(!pq.isEmpty()){
-                info curr = pq.remove();
-
-                for(int j = 0; j < graph[curr.a].size(); j++){
-                    Edge e = graph[curr.a].get(j);
-                    int v = e.dest;
-                    int w = e.wt;
-
-                    if(curr.cost + w < dist[v]){
-                        dist[v] = curr.cost + w;
-                        pq.add(new info(v, dist[v]));
+        //floyd warshall
+        for(int via = 0; via < n; via++){
+            for(int i = 0; i < n; i++){
+                for(int j = 0; j < n; j++){
+                    if(dist[i][via] != Integer.MAX_VALUE && dist[via][j] != Integer.MAX_VALUE){
+                        dist[i][j] = Math.min(dist[i][j], dist[i][via] + dist[via][j]);
                     }
                 }
             }
+        }
 
-            count = 0;
-            for(int k = 0; k < n; k++){
-                if(k != src && dist[k] <= distanceThreshold){
+        int minCount = Integer.MAX_VALUE;
+        int ans = 0;
+
+        for(int i = 0; i < n; i++){
+            int count = 0;
+            for(int j = 0; j < n; j++){
+                if(i != j && dist[i][j] <= distanceThreshold){
                     count++;
                 }
             }
 
             if(count <= minCount){
                 minCount = count;
-                answer = src;
+                ans = i;
             }
-
         }
-        return answer;
+        return ans;  
     }
 }

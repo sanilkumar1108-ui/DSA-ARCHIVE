@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3945-digit-frequency-score](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |

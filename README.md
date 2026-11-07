@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1004-max-consecutive-ones-iii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0994-rotting-oranges) |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -490,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -529,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -552,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
@@ -607,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1976-number-of-ways-to-arrive-at-destination) |

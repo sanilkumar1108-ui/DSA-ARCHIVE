@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
@@ -634,4 +638,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

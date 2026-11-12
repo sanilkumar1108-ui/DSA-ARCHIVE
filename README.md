@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0771-jewels-and-stones) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1096-brace-expansion-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1096-brace-expansion-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0856-score-of-parentheses) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0268-missing-number) |
+| [0721-accounts-merge](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0721-accounts-merge) |
 | [1051-height-checker](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
@@ -463,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
@@ -572,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0827-making-a-large-island) |

@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2574-left-and-right-sum-differences](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2574-left-and-right-sum-differences](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2574-left-and-right-sum-differences) |
 ## Geometry
 |  |
 | ------- |

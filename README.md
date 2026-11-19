@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1025-divisor-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3524-find-x-value-of-array-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/3524-find-x-value-of-array-i) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1922-count-good-numbers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/2235-add-two-integers) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -708,4 +712,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

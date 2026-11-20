@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0342-power-of-four) |
 ## Trie
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0877-stone-game) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |

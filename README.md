@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0342-power-of-four) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |

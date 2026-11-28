@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0680-valid-palindrome-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0735-asteroid-collision) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanilkumar1108-ui/DSA-ARCHIVE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
